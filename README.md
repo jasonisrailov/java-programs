@@ -1,5 +1,5 @@
 # java-programs
-This repository holds the practice programs I learn Java with in my AP Computer Sceince A course in high school in 2017/2018.
+This repository holds the practice programs I used to learned Java with in my AP Computer Sceince A course in high school in 2017/2018.
 
 The textbook I read to learn Java was *Java Software Solutions for AP Computer Science* by Cara Cocking, John Lewis, and William Loftus.
 
